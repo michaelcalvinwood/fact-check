@@ -1,0 +1,1 @@
+rsync -a . root@fusaion.ai:/home/python/fact-check/
